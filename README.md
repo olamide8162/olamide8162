@@ -1,7 +1,7 @@
 - 👋 Hi, I’m Ronnie
 - 👀 I’m interested in ... Github coding
-- 🌱 I’m currently learning ... crypto token development  
-- 💞️ I’m looking to collaborate on ... launching the next mooner
+- 🌱 I’m currently learning ... blockchain development  
+- 💞️ I’m looking to collaborate on ... building and launching the next big mover
 - 📫 How to reach me ... telegram @el_ronnie  
 
 <!---
