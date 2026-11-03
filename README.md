@@ -1,6 +1,6 @@
 ## Hi, I'm Olamide (Ronnie) 👋
 
-Full-stack developer in Lagos, Nigeria. I build products end to end: mobile and web apps, the databases behind them, and the servers they run on.
+Full-stack developer. I build products end to end: mobile and web apps, the databases behind them, and the servers they run on.
 
 🌐 **Portfolio:** [olamide8162.github.io](https://olamide8162.github.io)
 
@@ -19,12 +19,6 @@ Case studies for each are on [my portfolio](https://olamide8162.github.io).
 - **Data:** PostgreSQL (Supabase), Row Level Security, SQLite
 - **Infrastructure:** Ubuntu, systemd, Cloudflare Tunnel, Vercel, Git
 - **Also:** UI/UX basics, video editing (CapCut, Canva), cybersecurity (studying)
-
-### Certificates
-
-- IBM Full Stack Software Developer
-- Google UX Design
-- Google Cybersecurity *(in progress)*
 
 ### Reach me
 
