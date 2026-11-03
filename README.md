@@ -14,11 +14,11 @@ Case studies for each are on [my portfolio](https://olamide8162.github.io).
 
 ### Stack
 
-**Frontend:** React, React Native, Expo, TypeScript, Tailwind CSS
-**Backend:** Python, FastAPI, Node.js, REST APIs, Server-Sent Events
-**Data:** PostgreSQL (Supabase), Row Level Security, SQLite
-**Infrastructure:** Ubuntu, systemd, Cloudflare Tunnel, Vercel, Git
-**Also:** UI/UX basics, video editing (CapCut, Canva), cybersecurity (studying)
+- **Frontend:** React, React Native, Expo, TypeScript, Tailwind CSS
+- **Backend:** Python, FastAPI, Node.js, REST APIs, Server-Sent Events
+- **Data:** PostgreSQL (Supabase), Row Level Security, SQLite
+- **Infrastructure:** Ubuntu, systemd, Cloudflare Tunnel, Vercel, Git
+- **Also:** UI/UX basics, video editing (CapCut, Canva), cybersecurity (studying)
 
 ### Certificates
 
