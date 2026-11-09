@@ -8,7 +8,7 @@ Full-stack developer. I build products end to end: mobile and web apps, the data
 
 - **GymApp**: a multi-gym class booking app with live seat counts, self-running waitlists, QR check-in and a gym finder map. *React Native, Expo, Supabase.* Gym subscriptions in progress.
 - **Exopleen**: a real-time tracker for ~700 crypto wallets with push alerts and an AI scorer that learns from its misses, running on six services on a Linux server. *React, Python, FastAPI, SQLite.*
-- **Bracket/HQ**: a tournament platform for FC Mobile with four formats and brackets that update live on every screen.
+- **Bracket/HQ**: a tournament platform for FC Mobile with four formats and brackets that update live on every screen. *Google sign-in, Server-Sent Events.*
 
 Case studies for each are on [my portfolio](https://olamide8162.github.io).
 
